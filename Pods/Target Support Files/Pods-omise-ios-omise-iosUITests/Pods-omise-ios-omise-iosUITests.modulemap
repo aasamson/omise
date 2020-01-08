@@ -1,0 +1,6 @@
+framework module Pods_omise_ios_omise_iosUITests {
+  umbrella header "Pods-omise-ios-omise-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
